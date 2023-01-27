@@ -1,3 +1,5 @@
+# *TRABAJO PRÁCTICO DE ALGORITMOS Y PROGRAMACIÓN III*
+
 # **Patrones propuestos**:
 
 - **Abstract Factory/Prototype**: Para crear los bloques de terreno de distinto tipo.
@@ -6,3 +8,4 @@
 - **Command**: Para gestionar los movimientos del personaje.
 
 [Link a un Notion con la documentacion](https://motherloadalgo3.notion.site/TP-Algo3-4a0bf823f279422789fe4196a86b369a).
+
