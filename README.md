@@ -1,4 +1,5 @@
 # *TRABAJO PRÁCTICO DE ALGORITMOS Y PROGRAMACIÓN III*
+# *PARTE 2*
 
 # **Patrones propuestos**:
 
